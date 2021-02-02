@@ -1,6 +1,3 @@
-# LogoClockJavaScript
-Just playing arround
-
 <!DOCTYPE html>
 <html lang="en-US">
 
